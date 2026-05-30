@@ -1,16 +1,9 @@
-**Hi there 👋, I'am Gobinath Ravichandran**
-**Automation Test Engineer**
-I am a Clean Code and Automation Evangelist who loves to create Industry standard frameworks for Web, Mobile, API automation and contribute here in my Github.
+**Hi there 👋, I’m Gobinath Ravichandran**, an **Automation Test Engineer** with a strong passion for clean code and test automation. I specialize in designing and developing industry-standard automation frameworks for Web, Mobile, and API testing, and I actively contribute to the open-source community through GitHub.
 
-Skills: Selenium, Appium, Rest Assured, Docker, Jenkins, Git, Microservices, Openshift, Postman, SoapUI, Springboot
+**Core Skills:** Selenium, Appium, Playwright, Cypress, Rest Assured, Docker, Jenkins, Git, Microservices, OpenShift, Postman, SoapUI, Spring Boot
 
-🔭 I’m currently working on Selenide series
-🌱 I’m currently contributing to selenide-appium project
-👯 I’m looking to collaborate on Appium
-💬 Ask me about Selenium, Appium, Rest Assured, Docker 
-📫 How to reach me: ravi.gopi90@gmail.com
-
-github linkedin website telegram
-
-GitHub stats
-
+🔭 **Currently working on:** Selenium, Playwright, Cypress, and Selenide series
+🌱 **Currently contributing to:** selenide-appium project
+👯 **Open to collaborating on:** Appium-based projects
+💬 **Ask me about:** Selenium, Appium, Playwright, Cypress, Rest Assured, Docker
+📫 **Contact:** ravi.gopi90@gmail.com
